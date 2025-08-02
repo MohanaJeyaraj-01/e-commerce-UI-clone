@@ -1,4 +1,5 @@
 🛍️ E-Commerce UI Clone
+
 This is a responsive e-commerce website UI built using React.js and CSS Grid. It simulates a basic product listing layout similar to platforms like Amazon or Flipkart with a fluid, grid-based layout.
 
 🚀 Features
