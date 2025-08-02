@@ -19,14 +19,25 @@ Designed for front-end demonstration (no backend)
 
 
 📦 Folder Structure
+
 ecommerce-ui-clone/
+
 ├── src/
+
 │ ├── components/
+
 │ │ ├── Header.jsx
+
 │ │ ├── ProductCard.jsx
+
 │ │ └── ProductGrid.jsx
+
 │ ├── data/
+
 │ │ └── products.js
+
 │ ├── App.jsx
+
 │ ├── index.js
+
 │ └── index.css
